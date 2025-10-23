@@ -1,1 +1,4 @@
 Copy and paste output of ex_0_beginner_runfile.py below:
+I want to learn python because in biology the inforatic take more and more place in the daily work
+
+It was at the begining of may, I don't even have electricity or runing water

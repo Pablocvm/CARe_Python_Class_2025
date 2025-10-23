@@ -1,5 +1,5 @@
 import this
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 1 HERE")
+print("\n"+"I want to learn python because in biology the inforatic take more and more place in the daily work")
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 2 HERE")
+print("\n"+"It was at the begining of may, I don't even have electricity or runing water")
