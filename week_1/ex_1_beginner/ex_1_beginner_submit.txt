@@ -1,1 +1,7 @@
 Copy and paste output of ex_1_beginner_runfile.py below:
+species = [100, 200, 150, 300, 50]
+mean = sum(species) / len(species)
+print(mean, max(species), min(species))
+for day, species in enumerate(species, start=1):  # start=1 pour que le premier jour soit 1
+    if species > 200:
+        print(f"Jour {day} : population = {species} > 200")
