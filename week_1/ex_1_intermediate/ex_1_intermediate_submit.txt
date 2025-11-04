@@ -1,1 +1,11 @@
 Copy and paste output of ex_1_intermediate_runfile.py below:
+entrer la nouvelle especeinsect
+{'bacteria': 20, 'archaea': 15, 'fungi': 10, 'insect': 1}
+entrer la nouvelle especebacteria
+{'bacteria': 21, 'archaea': 15, 'fungi': 10, 'insect': 1}
+entrer la nouvelle especefungi
+{'bacteria': 21, 'archaea': 15, 'fungi': 11, 'insect': 1}
+entrer la nouvelle especearchaea
+{'bacteria': 21, 'archaea': 16, 'fungi': 11, 'insect': 1}
+entrer la nouvelle especestop
+vous n'avez plus de nouvelle espéce
